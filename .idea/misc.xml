@@ -3,7 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/projectDt/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/projectDt/app/src/main/res/drawable/elevation.xml" value="0.155" />
+        <entry key="..\:/projectDt/app/src/main/res/drawable/nav_bar.xml" value="0.155" />
+        <entry key="..\:/projectDt/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/projectDt/app/src/main/res/layout/activity_mrbest3.xml" value="0.22" />
+        <entry key="..\:/projectDt/app/src/main/res/layout/activity_mrbest4.xml" value="0.27291666666666664" />
+        <entry key="..\:/projectDt/app/src/main/res/layout/activity_mrbest5.xml" value="0.25885416666666666" />
+        <entry key="..\:/projectDt/app/src/main/res/layout/activity_mrbest6.xml" value="0.27291666666666664" />
+        <entry key="..\:/projectDt/app/src/main/res/layout/activity_mrbest7.xml" value="0.27291666666666664" />
+        <entry key="..\:/projectDt/app/src/main/res/layout/activity_mrbest8.xml" value="0.27291666666666664" />
+        <entry key="..\:/projectDt/app/src/main/res/layout/activity_mrbest9.xml" value="0.27291666666666664" />
       </map>
     </option>
   </component>
